@@ -1,17 +1,6 @@
 # quizAppQuestions
 
 
-
-
-
-
-
-
-
-<!-- PROJECT LOGO -->
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -69,7 +58,7 @@ pipenv install
     pipenv install
 ```
 ```
-    pipenv python run index.py
+    pipenv run python question.py
 ```
 
 
