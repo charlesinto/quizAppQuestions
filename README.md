@@ -42,7 +42,7 @@ pip install pipenv
 
 1. Clone the repo
 ```
-git clone https:://github.com/charlesinto/quizAppQuestions
+git clone https:://github.com/charlesinto/quizAppQuestions.git
 ```
 2. Install pip packages
 ```
